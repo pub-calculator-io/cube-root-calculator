@@ -13,6 +13,8 @@ Cube root calculator finds the principal (real) cube root of positive and negati
 
 Cube root calculator finds the principal (real) cube root of positive and negative numbers and the imaginary cube roots of the given number.
 
+[Cube Root Calculator Homepage](https://www.calculator.io/cube-root-calculator/ "Cube Root Calculator Homepage")
+
 __Shortcode__
 
 Use the Cube Root Calculator shortcode:
