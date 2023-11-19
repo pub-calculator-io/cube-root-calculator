@@ -1,4 +1,4 @@
-=== Cube Root Calculator ===
+=== Cube Root Calculator by www.calculator.io ===
 Contributors: calculatorio
 Tags: cube root calculator, calculate cube root, third root calculator, math root calculator, cubic root finder, extract cube root, cube root function calculator, find cube root online, cube root equation solver, online radical calculator
 Requires at least: 5.0

@@ -7,7 +7,7 @@ Cube root calculator finds the principal (real) cube root of positive and negati
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/cube-root-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /cube-root-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Cube Root Calculator](https://www.calculator.io/cube-root-calculator/ "Cube Root Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
