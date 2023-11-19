@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Cube Root Calculator by www.calculator.io
+Plugin Name: CI Cube root calculator
 Plugin URI: https://www.calculator.io/cube-root-calculator/
 Description: Cube root calculator finds the principal (real) cube root of positive and negative numbers and the imaginary cube roots of the given number.
 Version: 1.0.0
