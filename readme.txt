@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Cube Root Calcu
 == Screenshots ==
 
 1. The Cube Root Calculator Input Form.
-2. The Cube Root Calculator Calculation Results.
 
 == Installation ==
 
