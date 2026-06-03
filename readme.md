@@ -1,6 +1,6 @@
 # Cube Root Calculator Widget for WordPress
 
-Cube root calculator finds the principal (real) cube root of positive and negative numbers and the imaginary cube roots of the given number.
+Use our free Cube Root Calculator to instantly find the real and imaginary cube roots of any positive or negative number. Fast, accurate, and easy to use!
 
 ![Cube Root Calculator Input Form](/assets/images/screenshot-1.png "Cube Root Calculator Input Form")
 
@@ -11,8 +11,8 @@ Cube root calculator finds the principal (real) cube root of positive and negati
 3. Activate the [Cube Root Calculator](https://www.calculator.io/cube-root-calculator/ "Cube Root Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_cube_root_calculator]` to your page, post or sidebar.
-* Or add the following code: `<?php display_ci_cube_root_calculator(); ?>` to your template where you would like the Cube Root Calculator to appear.
+* Add the shortcode `[calcio_cube_root_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_calcio_cube_root_calculator(); ?>` to your template where you would like the Cube Root Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
